@@ -7,7 +7,7 @@ A customizable password generator that lets users select length, include/exclude
 -  Toggle between light and dark mode
 -  Store generated password history
 -  Copy or delete any saved password
--  Reset all selections easily
+-  Specify the number of password(s) to generate
 -  Fully mobile-friendly design
 
 ##  Features
@@ -15,6 +15,7 @@ A customizable password generator that lets users select length, include/exclude
 - **Length Control** – Choose any length for your password
 - **Character Set Filters** – Exclude/include character types
 - **Strength Indicator** – Displays password strength dynamically
+- **Choose how many to generate** - Ability to specify the number of password to generate
 - **Dark/Light Mode** – Switch themes with one click
 - **History** – Keeps track of all generated passwords
 - **Copy/Delete** – Interact with password history
